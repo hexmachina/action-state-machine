@@ -1,0 +1,16 @@
+{
+    "name": "ActionStatesEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:244112bde24ba4e409d84e6dfcbf34b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

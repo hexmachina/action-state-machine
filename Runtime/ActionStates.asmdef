@@ -1,0 +1,16 @@
+{
+    "name": "ActionStates",
+    "rootNamespace": "TW.ActionStates",
+    "references": [
+        "GUID:06a6a15b9366dd7458ecc92e847df9bc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
