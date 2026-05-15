@@ -1,6 +1,6 @@
 {
     "name": "com.tw.action-state-machine",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.0",
     "displayName": "Action State Machine",
     "description": "State machine",
